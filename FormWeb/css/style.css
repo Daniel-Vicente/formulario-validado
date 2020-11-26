@@ -1,0 +1,39 @@
+.body{
+  padding: 10px;
+  
+}
+body{
+  background-color:#4B6EEB;
+
+}
+.btn {
+  background-color:darkblue;
+  border: none;
+  color:#07D5EB;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.intext {
+  font-style: italic;
+	font-size: 20px;
+	text-size-adjust: 10px;
+	text-align: center;
+   border-radius: 5px 5px 5px 5px;
+  /* background-color: #ADF7A2;*/
+}
+p{
+  font-size: 25px;
+  font-style: italic;
+  ;
+}
+
+/*input.invalid {
+  border-color: #DD2C00;
+}
+*/
